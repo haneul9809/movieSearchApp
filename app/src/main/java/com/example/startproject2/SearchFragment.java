@@ -48,8 +48,8 @@ public class SearchFragment extends Fragment {
 
     static RequestQueue requestQueue;
 
-    String clientId = "33e5Sk45T9bKNDgESRZB";
-    String clientSecret = "PQld21PJeh";
+    String clientId = "5FjhhGOP_VTVryKP_SAl";
+    String clientSecret = "vaITVRHJrM";
     String uriString = "content://com.example.startproject2/movie";
 
     int page=1;
